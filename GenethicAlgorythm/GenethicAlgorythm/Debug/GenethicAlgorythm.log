@@ -1,0 +1,23 @@
+﻿  GenethicAlgorythm.cpp
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(81,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(86,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(124,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(169,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(197,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(201,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(211,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(221,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(239,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(252,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(265,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(267,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(279,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(283,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(286,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(297,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(299,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(304,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(320,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Рыба\source\repos\GenethicAlgorythm\GenethicAlgorythm\GenethicAlgorythm.cpp(338,21): warning C4018: <: несоответствие типов со знаком и без знака
+  GenethicAlgorythm.vcxproj -> C:\Users\Рыба\source\repos\GenethicAlgorythm\Debug\GenethicAlgorythm.exe
